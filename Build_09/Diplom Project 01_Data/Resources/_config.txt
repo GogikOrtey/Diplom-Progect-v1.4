@@ -1,0 +1,9 @@
+/* Это файл конфигурации. В нём задаются пути, по которым выгужаются, обрабатываются и загружаются обратно изображения. А также путь, по которому лежит исполняемый файл. Не изменяйте данные этого файла, без необходимости */
+
+D:\Рабочий стол\Работа с OpenCV\Diplom Projects\MyC_02\MyC_02\bin\Debug\netcoreapp3.1\MyC_02.exe
+D:\Work_to_OpenCV\000\
+D:\Work_to_OpenCV\000\OutputNormalMap\NewDephMap.png
+
+/Resources/MyC_02.exe
+Assets\Resources\_ExportImage\
+Assets\Resources\_ImportDephMap\NewDephMap.png
